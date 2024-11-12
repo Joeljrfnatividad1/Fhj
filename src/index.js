@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const chalk = require('chalk');
+require('./keep_alive.js');
 require('dotenv').config('./.env');
 const axios = require('axios');
 // Check if is up to date
