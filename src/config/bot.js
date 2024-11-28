@@ -10,7 +10,7 @@ module.exports = {
         prefix: '!',
         footer: `© Joel 2021 - ${new Date().getFullYear()}`, 
         botInvite: `https://discord.com/oauth2/authorize?client_id=1299983451168051211&permissions=8&integration_type=0&scope=applications.commands+bot`,
-        serverInvite: "https://discord.gg/codersplanet",
+        serverInvite: "https://discord.gg/GrUg37FP",
     },
 
     wordList: `Airplane
